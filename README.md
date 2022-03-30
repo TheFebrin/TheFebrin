@@ -22,7 +22,7 @@
     </samp>
 </p>
 
-<table align="center" width="50%">
+<table align="center" width="80%">
     <tr>
         <td>
             <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
