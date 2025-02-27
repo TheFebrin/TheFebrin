@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hi Mom!, I am a Software Engineer!</samp>
+        <samp>&gt; Hello!</samp>
 </h3>
 <br>
 
