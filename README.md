@@ -1,83 +1,95 @@
-<h3 align="center">
-        <samp>&gt; Hello!</samp>
+<div align="center">
+
+  <!-- 1. DYNAMIC HEADER -->
+  <a href="https://dieu.pl">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dawid+Dieu;AI+Engineer+%40+Opera;Building+Applied+LLM+Systems;Production+Machine+Learning" alt="Typing SVG" />
+  </a>
+
+  <p>
+    👋 <b>Building AI-powered systems that deliver real-world impact.</b>
+  </p>
+
+  <!-- 2. SOCIALS -->
+  <p>
+    <a href="https://www.linkedin.com/in/dawid-dieu-6606a8151/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://dieu.pl/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+    <a href="mailto:dawid.dieu@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <br />
+
+  <!-- 3. STATS (Dark Theme) -->
+  <a href="https://github.com/TheFebrin">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheFebrin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFebrin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  </a>
+
+<br />
+<br />
+
+<!-- 4. TECH STACK -->
+<h3>
+  🛠️ <b>Tech Stack</b>
 </h3>
-<br>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thefebrin&label=Profile%20views&color=blue&style=flat" alt="thefebrin" />
-    <a href="https://github.com/TheFebrin?tab=followers">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheFebrin?color=green&logo=github">
-    </a>
-    <a href="https://www.linkedin.com/in/dawid-dieu-6606a8151/" target="blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-5c5c5c?&logo=Linkedin&?logoColor=white&link=https://www.linkedin.com/in/dawid-dieu-6606a8151/"/>
-    </a>
-</p>
-
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thefebrin&" alt="thefebrin" /></p>
-
-<p align="center">
-    <samp>
-        「 Tech 」
-    </samp>
-</p>
-
-<table align="center" width="80%">
-    <tr>
-        <td>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-            </a>
-        </td>
-        <td>
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-            </a>
-        </td>
-        <td>
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-            </a>
-        </td>
-        <td>
-            <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-            </a> 
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-            </a>
-        </td>
-        <td>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-            </a>
-        </td>
-        <td>
-            <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-            </a>
-        </td>
-    </tr>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="130"><b>Domain</b></td>
+    <td align="center"><b>Technologies</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-    <samp>
-        「 Competitive Programming 」
-    </samp>
+<br />
+
+<!-- 5. COMPETITIVE PROGRAMMING -->
+<h3>
+  🏆 <b>Problem Solving</b>
+</h3>
+
+<p>I actively solve algorithmic challenges to keep my skills sharp.</p>
+
+<p>
+  <a href="https://codeforces.com/profile/febrin">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codingame.com/profile/febrin">
+    <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-<a href="https://codeforces.com/profile/febrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="febrin" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/febrin" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="febrin" height="30" width="30" /></a>
-</p>
+<br />
 
+<img src="https://komarev.com/ghpvc/?username=thefebrin&label=Profile%20Views&color=blue&style=flat-square" alt="thefebrin" />
 
+</div>
