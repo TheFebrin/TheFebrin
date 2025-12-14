@@ -30,17 +30,6 @@
 
   <br />
 
-  <!-- 3. STATS (Dark Theme) -->
-  <a href="https://github.com/TheFebrin">
-      <img height="170"
-          src="https://github-readme-stats.vercel.app/api?username=TheFebrin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-      <img height="170"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFebrin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-  </a>
-
-  <br />
-  <br />
-
   <!-- 4. HACKATHONS (Bento Style) -->
   <h3>
       🚀 <b>Hackathons & Awards</b>
