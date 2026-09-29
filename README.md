@@ -4,4 +4,4 @@
   <img src="assets/wave-light.svg" alt="dawid dieu" width="100%" />
 </picture>
 
-[dieu.pl](https://dieu.pl) · [LinkedIn](https://www.linkedin.com/in/dawid-dieu-6606a8151/) · [email](mailto:dawid.dieu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dawid-dieu-6606a8151/)
